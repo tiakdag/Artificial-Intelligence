@@ -1,0 +1,19 @@
+{
+  "wrapper": {
+    "timebankMax": 10000,
+    "timePerMove": 10,
+    "maxTimeouts": 0,
+    "resultFile": "./resultfile.json",
+    "debug": true
+  },
+  "match": {
+    "bots": [{
+      "command": "python3 /Users/TimurAkdag/Desktop/AI/ultimateTicTacToe/main.py"
+    },{
+      "command": "python3 /Users/TimurAkdag/Desktop/AI/ultimateTicTacToe/main2.py"
+    }],
+    "engine": {
+      "command": "java -jar /Users/TimurAkdag/Desktop/AI/ultimateTicTacToe/ultimate-tic-tac-toe-engine-1.0.5.jar"
+    }
+  }
+}
