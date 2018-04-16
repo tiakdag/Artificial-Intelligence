@@ -1,0 +1,1 @@
+This project is an implimentation of the mini-max algorithm. The code is in miniMax.py.  The bot plays ultimate tic tac toe against a random moving bot in the code.  In this current implementation my mini max bot successfully wins 50% of the time against a random moving bot.  
